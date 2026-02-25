@@ -1,10 +1,15 @@
 Hey so basically this is my first Iot based project. 
-Scope:- Basic operational screen display
+Scope:- Basic operational screen display......
 Components used- 0.96inch Oled screen
                  Esp32 Dev board
                  F-F, M-F, M-M jumper wires
                  Data cable
                  Breadboard
+...
 Projects:-
     ProjectA (Simple Display)-
-    simple code to check the functionality of Oled and print "Hello World"
+    simple code to check the functionality of Oled and print "Hello World"......
+
+    ProjectB (Display_via_WiFi)-
+    an upgrade to the previous Simple Display here you can send your own text based messages to the oled directly but you must be cooneted to the same wifi...
+    the perfect showcase and the usage of inbuilt WiFi module of esp32 to connect directly the wifi network then generating giving an ip address where you can visit thorugh your device and send messages directly..........
